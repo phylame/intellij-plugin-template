@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.phylame.intellijplugintemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.phylame.intellijplugintemplate.MyBundle
 
 class MyApplicationService {
 
